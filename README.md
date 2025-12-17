@@ -11,30 +11,30 @@
 
 <h3>:bar_chart: My GitHub Stats</h3>
 <div>
-    <a href="https://github.com/TreNgheDiCode">
-        <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/TreNgheDiCode?style=for-the-badge&labelColor=7E3ACE&color=181717">
+    <a href="https://github.com/BuhZeBu1710">
+        <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/BuhZeBu1710?style=for-the-badge&labelColor=7E3ACE&color=181717">
     </a>
-    <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/TreNgheDiCode?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/TreNgheDiCode?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/TreNgheDiCode?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-    <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/TreNgheDiCode?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-    <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/TreNgheDiCode?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+    <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/BuhZeBu1710?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/BuhZeBu1710?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/BuhZeBu1710?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+    <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/BuhZeBu1710?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+    <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/BuhZeBu1710?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=TreNgheDiCode&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=BuhZeBu1710&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
 </a>
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=TreNgheDiCode&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=BuhZeBu1710&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
 </a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height=180em src="https://streak-stats.demolab.com/?user=TreNgheDiCode&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    <img height=180em src="https://streak-stats.demolab.com/?user=BuhZeBu1710&theme=midnight-purple&hide_border=true" alt="streak stats"/>
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=TreNgheDiCode&theme=darkhub&no-frame=true&column=10">
+    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=BuhZeBu1710&theme=darkhub&no-frame=true&column=10">
 </a>
 <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
-    <img src="https://github-contributor-stats.vercel.app/api?username=TreNgheDiCode&theme=dark" alt="contribution stats">
+    <img src="https://github-contributor-stats.vercel.app/api?username=BuhZeBu1710&theme=dark" alt="contribution stats">
 </a>-->
 </br>
 <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
@@ -51,12 +51,12 @@
 
 <h2>ℹ️ Project info</h2>
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trenghedicode&label=Profile%20views&color=0e75b6&style=flat" alt="trenghedicode" /> </p>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TreNgheDiCode/TreNgheDiCode?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/TreNgheDiCode/TreNgheDiCode?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TreNgheDiCode/TreNgheDiCode?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/TreNgheDiCode/TreNgheDiCode?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/TreNgheDiCode/TreNgheDiCode?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BuhZeBu1710&label=Profile%20views&color=0e75b6&style=flat" alt="BuhZeBu1710" /> </p>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/BuhZeBu1710/BuhZeBu1710?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/BuhZeBu1710/BuhZeBu1710?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/BuhZeBu1710/BuhZeBu1710?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/BuhZeBu1710/BuhZeBu1710?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/BuhZeBu1710/BuhZeBu1710?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
@@ -64,7 +64,7 @@
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Carol42">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/TreNgheDiCode?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@TreNgheDiCode" height="22px">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/BuhZeBu1710?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@BuhZeBu1710" height="22px">
 </a>
 <a href="[https://linkedin.com/in/BuhZeeBu](https://www.linkedin.com/in/ph%C3%B9ng-quang-long-4b80b9154/)">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/ph%C3%B9ng-quang-long&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
